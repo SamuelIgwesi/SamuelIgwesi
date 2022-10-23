@@ -1,9 +1,9 @@
 ## Hello, I'm Samuel Igwesi
-### a Fullstack developer
+### a Fullstack developer:wink:
 
-###### I started out as a web developer a while ago and has since then completed some projects and contributed to some projects.
+###### I started out as a web developer a while ago and has since then completed some projects and contributed to some projects.:sparkles:
 
-#### Welcome to my space
+#### Welcome to my space:blush:
 ##### Here is a list of languages and web-related technologies I have worked with:
 + HTML5
 + CSS3
@@ -14,3 +14,5 @@
 + Mongoose
 + NodeJS
 + Git & Github
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
