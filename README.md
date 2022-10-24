@@ -1,7 +1,7 @@
 ## Hello, I'm Samuel Igwesi
 ### a Fullstack developer:wink:
 
-###### I started out as a web developer a while ago and has since then completed some projects and contributed to some projects.:sparkles:
+###### I am a web developer with passion for tech and I am committed to the life-long process of learning.:sparkles:
 
 #### Welcome to my space:blush:
 ##### Here is a list of languages and web-related technologies I have worked with:
