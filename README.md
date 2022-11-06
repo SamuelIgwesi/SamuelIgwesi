@@ -1,5 +1,5 @@
 ## Hello, I'm Samuel Igwesi
-### a Fullstack developer:wink:
+### A Web developer:wink:
 
 ###### I am a web developer with passion for tech and I am committed to the life-long process of learning.:sparkles:
 
