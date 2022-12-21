@@ -19,4 +19,18 @@
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 22 October 2022 - To: 20 December 2022
+
+Total Time: 70 hrs 11 mins
+
+JavaScript   26 hrs 22 mins  >>>>>>>>>----------------   37.57 %
+CSS          20 hrs 27 mins  >>>>>>>------------------   29.14 %
+HTML         10 hrs 28 mins  >>>>---------------------   14.92 %
+EJS          6 hrs 12 mins   >>-----------------------   08.84 %
+JSON         5 hrs 9 mins    >>-----------------------   07.35 %
+Bash         1 hr 26 mins    >------------------------   02.06 %
+```
+
 <!--END_SECTION:waka-->
