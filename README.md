@@ -4,8 +4,6 @@
 ###### A Fullstack developer and Open source contributor with experience in frontend development, server-side development, database management and Version Control Systems.:sparkles:
 
 
-[Portfolio](https://samdev.onrender.com/)
-
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
