@@ -1,7 +1,7 @@
 ## Hello, I'm Samuel Igwesi
-### A Web developer:wink:
+### A Web developer
 
-###### A Fullstack developer and Open source contributor with experience in frontend development, server-side development, database management and Version Control Systems.:sparkles:
+###### A meticulous Junior developer with passion for tech and currently looking forward to a career in MERN stack development.:sparkles:
 
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
