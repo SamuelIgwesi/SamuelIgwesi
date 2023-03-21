@@ -1,7 +1,7 @@
-## Hello, I'm Samuel Igwesi
-### A Web developer
+# Hello, I'm Samuel Igwesi
+## A Web Developer
 
-###### A meticulous Junior developer with passion for tech and currently looking forward to a career in MERN stack development.:sparkles:
+#### A meticulous Junior developer with passion for tech and currently looking forward to a career in MERN stack development.:sparkles:
 
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
