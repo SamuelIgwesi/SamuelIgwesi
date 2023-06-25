@@ -1,11 +1,10 @@
-# Hello, I'm Samuel Igwesi
-## A Web Developer
+## Hello there:wave:
 
-#### A meticulous Junior developer with passion for tech and currently looking forward to a career in MERN stack development.:sparkles:
+#### I'm a software developer currently working with nodeJs. I love bringing amazing UIs to life and solving problems with codes.:sparkles:
 
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelIgwesi)](https://git.io/streak-stats)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelIgwesi)](https://git.io/streak-stats)
+
 [![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelIgwesi&theme=dracula)](https://github.com/SamuelIgwesi/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
