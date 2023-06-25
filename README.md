@@ -1,12 +1,10 @@
 ## Hello there:wave:
 
-[![twitter]((https://twitter.com/Your_Fav_Dev)/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://www.linkedin.com/in/samuel-igwesi-aa143b227)/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-
-#### I'm a software developer currently working with nodeJs. I love bringing amazing UIs to life and solving problems with codes.:sparkles:
+#### I'm a software developer currently working with nodeJs. I love bringing amazing UIs to life and solving problems with codes.I'm open to opportunities and contributions:sparkles:
 
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelIgwesi)](https://git.io/streak-stats)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelIgwesi)](https://git.io/streak-stats)
 
 [![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelIgwesi&theme=dracula)](https://github.com/SamuelIgwesi/github-readme-activity-graph)
 
