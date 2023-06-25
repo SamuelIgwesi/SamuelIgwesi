@@ -1,5 +1,8 @@
 ## Hello there:wave:
 
+[![twitter]((https://twitter.com/Your_Fav_Dev)/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://www.linkedin.com/in/samuel-igwesi-aa143b227)/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+
 #### I'm a software developer currently working with nodeJs. I love bringing amazing UIs to life and solving problems with codes.:sparkles:
 
 
