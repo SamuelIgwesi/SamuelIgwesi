@@ -5,6 +5,8 @@
 
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelIgwesi)](https://git.io/streak-stats)
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelIgwesi&theme=dracula)](https://github.com/SamuelIgwesi/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
