@@ -19,7 +19,7 @@ Hi there! I'm **Igwesi Samuel**, a passionate **Junior Fullstack Developer** wit
 - ⚡ Fun fact: I believe every line of code tells a story.
 
 ### 🔨 Tech Stack
-- **Main Focus:** JavaScript (React, Node.js)
+- **Main Focus:** JavaScript (Node.js)
 - **Currently Exploring:** Python
 - **Others I Use:** HTML, CSS, MongoDB, Git, and more!
 
@@ -33,7 +33,12 @@ Feel free to explore my repositories and projects. Let's connect, collaborate, a
 
 
 
-<div style="display: flex; flex-direction: row; justify-content: center;">
- <img class="img" style="width: 48%; height:10em" src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="Samuel's GitHub stats" />
- <img class="img" style="width: 48%; height:10em" src="https://streak-stats.demolab.com?user=SamuelIgwesi&theme=tokyonight&hide_border=true" alt="Samuel's Streak Stats" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img style="width: 100%; max-width: 48%; height: auto;" 
+       src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile" 
+       alt="Samuel's GitHub Stats" />
+  <img style="width: 100%; max-width: 48%; height: auto;" 
+       src="https://streak-stats.demolab.com?user=SamuelIgwesi&theme=tokyonight&hide_border=true" 
+       alt="Samuel's Streak Stats" />
 </div>
+
