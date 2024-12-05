@@ -35,7 +35,7 @@ Feel free to explore my repositories and projects. Let's connect, collaborate, a
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img style="width: 100%; max-width: 48%; height: auto;" 
-       src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile" 
+       src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=default" 
        alt="Samuel's GitHub Stats" />
   <img style="width: 100%; max-width: 48%; height: auto;" 
        src="https://streak-stats.demolab.com?user=SamuelIgwesi&theme=tokyonight&hide_border=true" 
