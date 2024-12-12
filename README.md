@@ -38,7 +38,7 @@ Feel free to explore my repositories and projects. Let's connect, collaborate, a
        src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=default" 
        alt="Samuel's GitHub Stats" />
   <img style="width: 100%; max-width: 48%; height: auto;" 
-       src="https://streak-stats.demolab.com?username=SamuelIgwesi&theme=tokyonight&hide_border=true" 
+       src="https://streak-stats.demolab.com?user=SamuelIgwesi&theme=tokyonight&hide_border=true" 
        alt="Samuel's Streak Stats" />
 </div>
 
