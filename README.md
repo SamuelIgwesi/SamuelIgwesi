@@ -32,7 +32,7 @@ Hi there! I'm **Igwesi Samuel**, a passionate **Junior Fullstack Developer** wit
 Feel free to explore my repositories and projects. Let's connect, collaborate, and grow together! 🚀
 
 
-
+<!---
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img style="width: 100%; max-width: 48%; height: auto;" 
        src="https://github-readme-stats.vercel.app/api?username=SamuelIgwesi&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=default" 
@@ -42,3 +42,4 @@ Feel free to explore my repositories and projects. Let's connect, collaborate, a
        alt="Samuel's Streak Stats" />
 </div>
 
+--->
