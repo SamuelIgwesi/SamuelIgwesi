@@ -1,5 +1,3 @@
-![Banner](https://github.com/SamuelIgwesi/SamuelIgwesi/blob/main/github%20banner.webp)
-
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=5FA04E)
