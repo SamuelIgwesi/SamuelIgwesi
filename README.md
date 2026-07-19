@@ -7,8 +7,14 @@
 Building software and smart systems that solve real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=vercel)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Igwesi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuel-igwesi/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:samhillss231@gmail.com)
+<a href="https://www.linkedin.com/in/samuel-igwesi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel_Igwesi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:samhillss231@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
 
 </div>
 
