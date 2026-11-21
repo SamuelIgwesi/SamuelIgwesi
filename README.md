@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Samuel Igwesi
 
-### Full Stack Developer • Mechanical Engineering Student • Builder
+### Full Stack Developer • Mechanical Engineering Graduate • Builder
 
 Building software and smart systems that solve real-world problems.
 
